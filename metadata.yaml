@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8868'
     url: http://www.gutenberg.org/2009/agents/8868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19756#La-r-forme-postale-en-France
 gutenberg_bookshelf:
 - The Philatelic Digital Library Project
 - FR Services publics
